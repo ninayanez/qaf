@@ -1,5 +1,4 @@
 var electron = require('electron')
-var BrowserWindow = require('browser-window')
 var mainWindow
 
 const {app} = electron
