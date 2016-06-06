@@ -1,6 +1,9 @@
-var app = require('app')
+var electron = require('electron')
 var BrowserWindow = require('browser-window')
 var mainWindow
+
+const {app} = electron
+const {BrowserWindow} = electron
 
 function init () {
   mainWindow = new BrowserWindow({
