@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "babel": "^5.8.29",
+    "babel": "5.8.29",
     "get-pixels": "^3.3.0",
     "single-line-log": "^1.1.1",
     "three": "^0.77.1",
